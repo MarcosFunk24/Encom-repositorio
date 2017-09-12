@@ -1,0 +1,29 @@
+p {
+	text-align: center;
+	font-size: 26px;
+	border: dashed 2px blue;
+	height: 150px;
+	width: 100px;
+}
+em{
+	font-family: Verdana;
+	color: #01DFD7;
+	text-align: center;
+
+}
+div{
+	background-color: #ECF8E0;
+	height: 100px;
+	width: 100px; 
+	text-decoration: none;
+	font-family: Garamond, serif;
+	margin: auto;
+
+}
+body{
+	background-image: http://img14.deviantart.net/87bf/i/2012/032/9/8/encom_logo_wallpaper_by_frogr1701-d381a5s.jpg;
+}
+
+}
+
+}
